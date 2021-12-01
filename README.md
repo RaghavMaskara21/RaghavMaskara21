@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I love solving rubics cube
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Raghav's+Github+Profile!)](https://git.io/typing-svg)
+
 ### <h1>Hey Developer! 👋 Welcome to my profile 
 
 [Raghav Maskara](https://github.com/RaghavMaskara21) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
@@ -66,7 +68,7 @@ Here are some ideas to get you started:
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavMaskara21"/> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavMaskara21&layout=compact)](https://github.com/RaghavMaskara21/github-readme-stats) |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| ![Mritunjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavMaskara21&show_icons=true&theme=radical) |
+| ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavMaskara21&show_icons=true&theme=radical) |
 | ----------------------------------------------------------------------------------------------------------------------------- |
 
 ---
