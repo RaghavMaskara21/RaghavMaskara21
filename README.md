@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Raghav's+Github+Profile!)](https://git.io/typing-svg)
 
 ### <h1>Hey Developer! 👋 Welcome to my profile 
+  
+  <p align="center"> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="140px" width="140px"> 
+   
+## :wave:  About Me 
+
+
 
 [Raghav Maskara](https://github.com/RaghavMaskara21) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
@@ -26,13 +32,17 @@ Here are some ideas to get you started:
 - 🎓 &nbsp;I'm currently pursuing B.Tech in ECE from IIIT Surat.
 - Currently Learning DSA and React JS
 - 📫 &nbsp;You can shoot me an email at raghavmaskara@gmail.com! I'll try to respond as soon as I can.
-- ⚡ &nbsp;Fun fact: I love solving rubiks cube  
+- ⚡ &nbsp;Fun fact: I love solving Rubik's cube  
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-[<img align="left" alt="Raghav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Raghav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Raghav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  <a href="https://twitter.com/MaskaraRaghav" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="left"></a>
+  <a href="https://www.linkedin.com/in/raghavmaskara/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="left"></a>
+  <a href="https://www.instagram.com/raghavmaskara/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-512.png" height="80px" width="80px" alt="Twitter" align="left"></a>
+  
+  
+  
+<br><br><br>
 
 <br />
 
