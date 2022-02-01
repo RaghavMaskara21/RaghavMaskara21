@@ -98,8 +98,8 @@ Here are some ideas to get you started:
 <h3> 💻 &nbsp;Coding profiles 🌎 </h3>
 
 
-<!-- 
-[![](https://img.shields.io/badge/HackerRank-raghavmaskara-red)](https://www.hackerrank.com/raghavmaskara) -->
+
+[![](https://img.shields.io/badge/HackerRank-raghavmaskara-red)](https://www.hackerrank.com/raghavmaskara)
 [![](https://img.shields.io/badge/Codechef-raghav_maskara-yellow)](https://www.codechef.com/users/raghav_maskara)
 [![](https://img.shields.io/badge/GeeksForGeeks-raghavmaskara-purple)](https://auth.geeksforgeeks.org/user/raghavmaskara/profile)
 [![](https://img.shields.io/badge/LeetCode-raghav_maskara-blue)](https://leetcode.com/raghav_maskara/)
