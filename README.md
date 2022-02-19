@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=RaghavMaskara21)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MaskaraRaghav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MaskaraRaghav)
 
-- 🎓 &nbsp;I'm currently pursuing B.Tech in ECE from IIIT Surat.
-- Currently Learning DSA and React JS
-- 📫 &nbsp;You can shoot me an email at raghavmaskara@gmail.com! I'll try to respond as soon as I can.
-- ⚡ &nbsp;Fun fact: I love solving Rubik's cube  
+- 🎓 &nbsp; I'm currently pursuing B.Tech in ECE from IIIT Surat.
+- 🎓 &nbsp; Currently Learning DSA and React JS
+- 📫 &nbsp; You can shoot me an email at raghavmaskara@gmail.com! I'll try to respond as soon as I can.
+- ⚡ &nbsp; Fun fact: I love solving Rubik's cube  
 
 <h3> 🤝🏻 Connect with Me </h3>
 
