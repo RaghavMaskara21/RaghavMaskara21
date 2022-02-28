@@ -71,16 +71,40 @@ Here are some ideas to get you started:
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 
 
-## </p>
+<p align="center">
+  <a>
+<!--     <img height="150" width="150" src="https://github.com/RaghavMaskara21/RaghavMaskara21/blob/main/images/left.png"> -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavMaskara21&theme=dark&hide_border=true"/>
+<!--     <img height="150" width="150" src="https://github.com/RaghavMaskara21/RaghavMaskara21/blob/main/images/right.png"> -->
+  </a>
+</p>
 
- <h2 align="">:bar_chart: &nbsp;Github stats </h2>
+<p align="center">
+  <a href="https://github.com/RaghavMaskara21">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaghavMaskara21&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/RaghavMaskara21">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavMaskara21&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
 
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaghavMaskara21"/> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavMaskara21&layout=compact)](https://github.com/RaghavMaskara21/github-readme-stats) |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=RaghavMaskara21&theme=react-dark&hide_border=true&area=true)
 
-| ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaghavMaskara21&show_icons=true&theme=radical) |
-| ----------------------------------------------------------------------------------------------------------------------------- |
+<div align="center">
 
+<!-- ### Watch my contribution graph being eaten by a Snake! 🐍 -->
+  
+</div>
+
+<!-- ![snake gif](https://github.com/RaghavMaskara21/RaghavMaskara21/blob/output/github-contribution-grid-snake.svg) -->
+
+<div align="center">
+  
+
+
+</div>
+  
+  
 ---
 
 <br>
@@ -91,12 +115,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<summary>:chart_with_upwards_trend: Contribution Graph </summary>
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=RaghavMaskara21&theme=xcode" alt="Contribution Graph" align="center" />
 
 <h3> 💻 &nbsp;Coding profiles 🌎 </h3>
-
 
 
 
@@ -110,5 +130,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/raghavmaskara/
 [instagram]: https://www.instagram.com/raghavmaskara/
 
- Show Some love ❤️
- Star Repository 🌟
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
